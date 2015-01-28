@@ -1,0 +1,25 @@
+1. What is the difference between an API and a server?
+
+A server is a computer that sends information over the Internet to client computers when it receives a request. An API, hosted on a server, is a collection of data that can be drawn upon to serve information to clients. It can also be used be developers to add functionality to their own applications.
+
+
+2. What does a DNS server do when you type "www.google.com" into an address bar?
+
+The DNS server takes that URL and matches it to the numeric IP address where the Google homepage is hosted. 
+
+3. What are some differences between a single page application and a multipage application? List one example of each.
+
+A single-page application can manipulate DOM elements based on user input without loading a new page, and can be built using technologies like AJAX and Node. A multi-page app uses the traditional request-response model, loading a new HTML page following each request from a client.
+
+Wikipedia is a multi-page application, while Twitter (the timeline) is a single-page app.
+
+4. Why do we use RESTful routes?
+
+RESTful routes are important so that a browser can access information contained on a server without knowing in advance the structure of that data. 
+
+
+5. What is an API key and why are they used?
+
+API keys are unique codes given to developers by the creators of an API so that they can track its usage,
+control who gets to use it, and set limits on its use by individual developers/third-party applications.
+
